@@ -3,32 +3,40 @@
 
 /* Token design system. Ubah di sini + perbarui docs/design-system.md */
 @theme {
-  --color-brand-50: #E3F1EB;
-  --color-brand-500: #1F8A65;
-  --color-brand-700: #0E6B4E;
-  --color-brand-800: #0B5A41;
-  --color-brand-900: #094B37;
-  --color-focus: #8CC9B1;
-  --color-disabled: #8FA39A;
-  --color-ink: #14211C;
-  --color-ink-2: #2F3B36;
-  --color-muted: #4E5D57;
-  --color-muted-2: #6B7A74;
-  --color-line: #D9E0DC;
-  --color-line-input: #C5CFCA;
-  --color-line-soft: #E1E7E4;
-  --color-line-soft-2: #E6EBE8;
-  --color-line-soft-3: #EEF1EF;
-  --color-surface: #FFFFFF;
-  --color-canvas: #F3F5F4;
-  --color-side-bg: #10261E;
-  --color-side-active: #23463A;
-  --color-side-line: #2E5446;
-  --color-side-text: #DCE6E1;
-  --color-side-muted: #A9BCB3;
-  --color-side-label: #8FA79C;
-  --color-side-link: #BFE3D3;
-  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --color-brand-50: #e3f1eb;
+  --color-brand-500: #1f8a65;
+  --color-brand-700: #0e6b4e;
+  --color-brand-800: #0b5a41;
+  --color-brand-900: #094b37;
+  --color-focus: #8cc9b1;
+  --color-disabled: #8fa39a;
+  --color-danger: #a1271b;
+  --color-danger-50: #fdecea;
+  --color-danger-800: #8c1d13;
+  --color-warning-50: #fff4db;
+  --color-warning-800: #6e4700;
+  --color-neutral-50: #ecefed;
+  --color-neutral-800: #47534e;
+  --color-ink: #14211c;
+  --color-ink-2: #2f3b36;
+  --color-muted: #4e5d57;
+  --color-muted-2: #6b7a74;
+  --color-line: #d9e0dc;
+  --color-line-input: #c5cfca;
+  --color-line-soft: #e1e7e4;
+  --color-line-soft-2: #e6ebe8;
+  --color-line-soft-3: #eef1ef;
+  --color-surface: #ffffff;
+  --color-canvas: #f3f5f4;
+  --color-avatar: #e8eeeb;
+  --color-side-bg: #10261e;
+  --color-side-active: #23463a;
+  --color-side-line: #2e5446;
+  --color-side-text: #dce6e1;
+  --color-side-muted: #a9bcb3;
+  --color-side-label: #8fa79c;
+  --color-side-link: #bfe3d3;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
 }
 
 @layer base {
